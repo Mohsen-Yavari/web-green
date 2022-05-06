@@ -17,6 +17,26 @@
 
 body {
   font-family:B-Nazanin,Yekan;
-  background-color:var(--black);
+  background:var(--black);
   color: var(--gray);
+}
+
+.App{
+  background: var(--black);
+}
+
+// **********************Nav***********
+
+.logo{
+  width: 55px;
+  height: 55px;
+  border-radius:50vw;
+}
+
+
+//home
+
+.home{
+  width: 100%;
+
 }
