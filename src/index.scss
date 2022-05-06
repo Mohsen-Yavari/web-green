@@ -1,0 +1,22 @@
+:root{
+  --black:#161616;
+  --gray:#6a6a6a;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: 'B-Nazanin';
+  src: local('B-Nazanin'), url(./fonts//B-NAZANIN.TTF) format('truetype');
+  font-family: "Yekan";
+  src: local('Yekan.ttf'), url(./fonts/Yekan.ttf);
+}
+
+body {
+  font-family:B-Nazanin,Yekan;
+  background-color:var(--black);
+  color: var(--gray);
+}
