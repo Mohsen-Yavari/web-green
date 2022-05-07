@@ -1,5 +1,6 @@
 import React from 'react';
 import {about} from "../dummydata";
+import Common from "./common/common";
 
 
 const About = () => {
@@ -8,7 +9,7 @@ const About = () => {
               <section className="about">
         <div className="container">
         <div className="about-itemContent">
-       
+       <Common title="در مورد ما"></Common>
       
          {
              about.map((data)=>{
