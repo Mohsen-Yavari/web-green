@@ -1,0 +1,33 @@
+.about{
+    position: relative;
+    padding: 20px 0;
+  
+    .about-itemContent{
+      padding: 20px;
+      margin: 0;
+     border: 20px solid var(--gray);
+    
+      position: relative;
+  
+  
+      .about-countent{
+      .flex{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+       
+      }
+  
+      .about-left{
+        .primry-btn{
+          background-color: rgb(74, 173, 66);
+          padding: 10px;
+          color:aliceblue;
+          border-radius:5px;
+          border:none;
+          outline: none;
+        }
+      }
+    }
+    }
+  }

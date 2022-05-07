@@ -27,7 +27,7 @@ const Nav = () => {
                         </li>
                       
                         <li className="nav-item">
-                        <Link className="nav-link active" to="/">خانه</Link>
+                        <Link className="nav-link active" to="/crative">خلاقیت</Link>
                         </li>
                       
                     </ul>

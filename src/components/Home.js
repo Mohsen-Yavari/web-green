@@ -17,7 +17,7 @@ const Home = () => {
     return (
         <section className="home">
         <div className="container">
-            <h2> Single Item</h2>
+          
         <Slider {...settings}>
          {
              homedata.map((val)=>{

@@ -31,15 +31,15 @@ export const homedata = [
   ]
   export const about = [
     {
-      name: "Beckham Roy",
-      email: "beckham@gmail.com",
-      phone: "(123) - 456-7890",
-      fax: "(123) - 456-7890",
-      dob: "23 February 1986",
-      nation: "United States",
-      heading: "Short History",
-      title: "I'm a UI/UX Designer & Frontend Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.",
-      desc: "Worked with project teams to create user-friendly and appealing application interfaces and websites for users. Met with project manager, business analyst and architect right from beginning of project, creating rough mock-ups that were refined and extended over many iterations. Adjustments to mock-ups as necessary to address problems encountered.",
+      name: "محسن یاوری",
+      email: "mohsenyavari713@gmail.com",
+      phone: "+98 123 456 789",
+      fax: "+98 123 456 789",
+      dob: "خرداد 1371",
+      nation: "ایران",
+      heading: "درباره من:",
+      title: "یک فرانت اند دولوپر عاشق برنامه نویسی",
+      desc: "عاشق کار در پروژه های تیمی و یادگیری مباحث جدید در دنیای برنامه نویسی",
     },
   ]
   

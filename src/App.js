@@ -8,6 +8,7 @@ import {
 import Nav from "./components/Nav";
 import Home from "./components/Home";
 import About from "./components/About";
+import Creative from "./components/Creative";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/about" element={<About />} />
+      <Route path="/crative" element={<Creative />} />
     </Routes>
     </BrowserRouter>
       
